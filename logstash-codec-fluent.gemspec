@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 
-  s.name            = 'logstash-codec-fluent'
+  s.name            = 'tes-logstash-codec-fluent'
   s.version         = '3.1.0'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = "This codec handles fluentd's msgpack schema."
